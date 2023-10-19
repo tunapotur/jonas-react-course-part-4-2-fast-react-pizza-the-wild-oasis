@@ -1,2 +1,6 @@
-# jonas-react-course-part-4-2-fast-react-pizza-the-wild-oasis
-Jonas Schmedtmann second biggest project "the-wild-oasis"
+# The Wild Oasis
+## Second Biggest Project
+### Jonas Schmedtmann The Ultimate React Course 2023: React, Redux &amp; More Udemy Course.
+
+This repo builded for Jonas Schmedtmann The Ultimate React Course 2023: React, Redux & More Udemy course.
+My goal is take notes and build projects for each section after I finish the section.
